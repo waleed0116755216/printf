@@ -1,6 +1,6 @@
 .TH _PRINTF 3 "28 MARCH 2023" "_PRINTF"
 .SH NAME
-.B _printf
+.B _print
 - formatted output conversion
 .SH SYNOPSIS
 .B #include "main.h"
