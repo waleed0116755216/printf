@@ -1,5 +1,5 @@
 #include <stdarg.h>
-#include <stdio.h
+#include <stdio.h>
 #include "main.h"
 /**
 * print_bin - convert to binary
