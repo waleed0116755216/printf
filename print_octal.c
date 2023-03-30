@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print_octal - unsigned int argument is converted to unsigned octal
+* print_octal - unsigned int argument is converted to unsigned octa
 * @o: unsigned to be converted
 * Descriptions: prints unsigned octal
 * Return: size the output
