@@ -1,4 +1,4 @@
-#include "main.h"g
+#include "main.h"
 #include <stdlib.h>
 
 void _print(unsigned int n, ...);
