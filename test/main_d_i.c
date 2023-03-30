@@ -6,7 +6,7 @@
   * main - A main to tests %d and %i cases in _printf()
   * vs. printf()
   *
-  * Return: Always zero.33
+  * Return: Always zero.
   */
 int main(void)
 {
