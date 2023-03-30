@@ -3,7 +3,7 @@
 #include <stdarg.h>
 
 /**
-  * struct specifiers - Struct specifier
+  * struct specifiers - Struct specifiers
   * @specifier: The conversion specifier
   * @f: The function pointer
   */
