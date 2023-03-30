@@ -1,4 +1,4 @@
-#include "main.h"
+#include "man.h"
 /**
 * print_int - function that prints an integer
 * @i: integer to print
